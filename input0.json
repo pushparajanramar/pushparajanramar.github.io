@@ -2,7 +2,7 @@
   "page": {
     "uid": "homepage",
     "uuid": "eyJpdGVtSWQiOiJob21lcGFnZSIsImNhdGFsb2dJZCI6ImNwcUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
-    "title": "Homepage",
+    "title": "HomepageInTest",
     "template": "LandingPage2Template",
     "typeCode": "ContentPage",
     "name": "Homepage",
@@ -456,6 +456,6 @@
         }
       ]
     },
-    "label": "homepage"
+    "label": "homepagefromgit"
   }
 }
